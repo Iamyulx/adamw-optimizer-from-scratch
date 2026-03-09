@@ -158,7 +158,7 @@ Adam-based optimizers converge significantly faster than SGD in this experiment.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/adamw-optimizer-from-scratch
+git clone https://github.com/Iamyulx/adamw-optimizer-from-scratch
 cd adamw-optimizer-from-scratch
 
 Install dependencies:
